@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Julia
-- 👀 I’m interested in climbing, playing the drums, cooking and concerts.
+- 👀 I’m interested in climbing, playing the drums, cooking and board games.
 - 🌱 I’m currently learning Javascript/React.
 - 💞️ I would like to collaborate on a nerdy music database app.
-- 📫 How to reach me ...
