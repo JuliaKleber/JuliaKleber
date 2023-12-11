@@ -7,4 +7,4 @@ I studied chemistry and after graduating I worked in clinical research for sever
 
 In school, I had IT lessons where we coded strategic games using Turbo Pascal. During university, I took a number theory course where we used Maple to implement algorithms. Thus, coding is not entirely new to me.
 
-If you are curious how I came up with my github nickname, it is from one of my favourite TV series, My name is Earl.
+If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl".
