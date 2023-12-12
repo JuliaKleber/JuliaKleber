@@ -21,3 +21,5 @@ If you are curious how I came up with my github nickname, it is from one of my f
 </div>
 
 bootstrap, heroku, shell, postgres, mysql
+
+stylex tailwind, nest.js, react native
