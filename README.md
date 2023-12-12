@@ -23,3 +23,5 @@ If you are curious how I came up with my github nickname, it is from one of my f
 bootstrap, heroku, shell, postgres, mysql
 
 stylex tailwind, nest.js, react native
+
+![Julia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=al3xwo&show_icons=true&theme=aura)
