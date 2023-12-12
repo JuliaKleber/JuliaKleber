@@ -25,9 +25,10 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=50px />
-  StyleX, React Native
+  - StyleX
+  - React Native
 </div>
-
+<br>
 ![Julia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldieCrystal&show_icons=true&theme=aura)
-
+<br>
 If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
