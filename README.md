@@ -24,4 +24,4 @@ bootstrap, heroku, shell, postgres, mysql
 
 stylex tailwind, nest.js, react native
 
-![Julia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=al3xwo&show_icons=true&theme=aura)
+![Julia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldieCrystal&show_icons=true&theme=aura)
