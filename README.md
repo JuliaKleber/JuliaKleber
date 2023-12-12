@@ -6,7 +6,7 @@
 - 👩‍🔬️ Have worked in clinical research for more than 10 years
 - 👩‍💻️ Found my passion in coding
 
-If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl".
+If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px />
