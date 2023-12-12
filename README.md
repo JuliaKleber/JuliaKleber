@@ -5,10 +5,8 @@
 - 👩‍💻️ Found my passion in coding
 - 🌱 I’m currently learning Javascript / React.
 - 👀 I’m interested in climbing, playing the drums, cooking and board games.
-
-If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
-
-
+<br>
+<br>
 
 <b>- My learning journey:</b>
 <div>
@@ -26,8 +24,6 @@ If you are curious how I came up with my github nickname, it is from one of my f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height=50px />
 </div>
 
-
-
 - Want to learn next:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=50px />
@@ -35,6 +31,6 @@ If you are curious how I came up with my github nickname, it is from one of my f
   StyleX, React Native
 </div>
 
-
-
 ![Julia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldieCrystal&show_icons=true&theme=aura)
+
+If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
