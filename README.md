@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript / React.
 - 💞️ I would like to collaborate on a nerdy music database app.
 
-- I have a diploma in chemistry
+- \u{1F9EA} I have a diploma in chemistry
 - Worked in clinical research for more than 10 years
 - Wanted to do something else
 - Found my passion in coding
