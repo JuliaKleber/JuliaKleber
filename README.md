@@ -9,6 +9,4 @@ In school, I had IT lessons where we coded strategic games using Turbo Pascal. D
 
 If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl".
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
