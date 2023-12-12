@@ -19,3 +19,5 @@ If you are curious how I came up with my github nickname, it is from one of my f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=50px />
 </div>
+
+bootstrap, heroku, shell, postgres, mysql
