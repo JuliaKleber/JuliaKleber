@@ -2,11 +2,9 @@
 - 👀 I’m interested in climbing, playing the drums, cooking and board games.
 - 🌱 I’m currently learning Javascript / React.
 - 💞️ I would like to collaborate on a nerdy music database app.
-
-- \u{1F9EA} I have a diploma in chemistry
-- Worked in clinical research for more than 10 years
-- Wanted to do something else
-- Found my passion in coding
+- 🧪️ I have a diploma / master's degree in chemistry
+- 👩‍🔬️ Have worked in clinical research for more than 10 years
+- 👩‍💻️ Found my passion in coding
 
 If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl".
 
