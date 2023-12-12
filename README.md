@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Javascript / React.
 - 👀 I’m interested in climbing, playing the drums, cooking and board games.
 <br>
-<br>
-<b>My learning journey:</b>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px />
