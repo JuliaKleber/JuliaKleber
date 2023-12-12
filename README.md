@@ -1,10 +1,10 @@
 👋 Hi, I’m Julia
-- 🧪️ I have a diploma / master's degree in chemistry
-- 👩‍🔬️ I have worked in clinical research for more than 10 years
-- 👩‍💻️ Found my passion in coding
-- 🌱 I’m currently learning Javascript / React.
-- 💞️ I would like to collaborate on a nerdy music database app.
-- 👀 I’m interested in climbing, playing the drums, cooking and board games.
+- 🧪️  I have a diploma / master's degree in chemistry
+- 👩‍🔬️  I have worked in clinical research for more than 10 years
+- 👩‍💻️  Found my passion in coding
+- 🌱  I’m currently learning Javascript / React.
+- 💞️  I would like to collaborate on a nerdy music database app.
+- 👀  I’m interested in climbing, playing the drums, cooking and board games.
 <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px />
