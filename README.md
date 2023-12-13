@@ -33,28 +33,14 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=40px />
-  - StyleX
-  - React Native
+  <span>- StyleX</span>
+  <span>- React Native</span>
 </div>
-
-<br><br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" />
-
-
-<br><br>
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldiecrystal&show_icons=true&locale=en&layout=compact" alt="goldiecrystal" />
 
-
-<br><br>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" />
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=goldiecrystal&" alt="goldiecrystal" />
-
-
-<br><br>
-
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" alt="goldiecrystal" /></a>
