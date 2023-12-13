@@ -38,7 +38,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" />
+
 
 <br>
 
