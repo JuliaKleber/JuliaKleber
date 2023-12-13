@@ -3,8 +3,10 @@
 - 👩‍🔬️  I have worked in clinical research for more than 10 years
 - 👩‍💻️  I found my passion in coding
 - 🌱  I am currently learning Javascript / React
-- 💞️  I would like to collaborate on a nerdy music database app. Let's connect!
+- 🔭  I am currently buidling a recipe storage app with React
+- 👯  I would like to collaborate on a nerdy music database app. Let's connect!
 - 👀  I am interested in climbing, playing the drums, cooking and board games.
+- ⚡   If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
