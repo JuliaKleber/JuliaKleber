@@ -38,12 +38,3 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" /></p>
-<br>&nbsp;<br>
-<br>&nbsp;<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldiecrystal&show_icons=true&locale=en&layout=compact" /></p>
-<br>&nbsp;<br>
-<br>&nbsp;<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=goldiecrystal&" /></p>
-<br>&nbsp;<br>
-<br>&nbsp;<br>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" /></a></p>
