@@ -9,7 +9,7 @@
 - ⚡   If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=40px />
@@ -25,18 +25,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height=40px />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=40px/>
 </div>
+
 <br>
-<b>Want to learn next:</b>
+
+<h3>Want to learn next:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=40px />
   - StyleX
   - React Native
 </div>
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" />
 
 <br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldiecrystal&" alt="goldiecrystal" /></p>
+
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" alt="goldiecrystal" /></a> </p>
