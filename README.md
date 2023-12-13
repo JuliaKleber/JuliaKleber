@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40px />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=40px />
 </p>
-
 <br>
 
 <h3>Want to learn next:</h3>
@@ -36,11 +35,15 @@
   <span>- StyleX</span>
   <span>- React Native</span>
 </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldiecrystal&show_icons=true&locale=en&layout=compact" alt="goldiecrystal" /></p>
 <br><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" /></p>
 <br><br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=goldiecrystal&" alt="goldiecrystal" /></p>
 <br><br>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" alt="goldiecrystal" /></a></p>
