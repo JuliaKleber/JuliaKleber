@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40px />
@@ -38,29 +38,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api username=goldiecrystal&show_icons=true&locale=en" alt="goldiecrystal" />
 
 <br>
-If you are curious how I came up with my github nickname, it is from one of my favourite TV series, "My name is Earl". Check it out!
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goldiecrystal&label=Profile%20views&color=0e75b6&style=flat" alt="goldiecrystal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" alt="goldiecrystal" /></a> </p>
-
-- 🔭 I’m currently working on **qfewfwe**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **qfwefw**
-
-- ⚡ Fun fact **wfqwf**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-crystal&show_icons=true&locale=en" alt="goldiecrystal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goldiecrystal&" alt="goldiecrystal" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goldiecrystal" alt="goldiecrystal" /></a> </p>
