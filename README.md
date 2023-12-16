@@ -5,7 +5,7 @@
 - 🌱  I am currently learning Javascript / React.
 - 🔭  I am currently buidling a recipe storage app with React.
 - 👯  I would like to collaborate on a nerdy music database app. Let's connect!
-- 👀  I am interested in climbing, playing the drums, cooking and board games.
+- 👀  I am interested in climbing, cycling, playing the drums, cooking and board games.
 <br>
 
 <h3>Languages and Tools:</h3>
