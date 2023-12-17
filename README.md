@@ -36,4 +36,4 @@
   ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe)
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juliakleber&show_icons=true&locale=en" /></p>
