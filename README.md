@@ -37,5 +37,4 @@
 
 <br>
 
-  <img scr="https://github.com/JuliaKleber/JuliaKleber/assets/142741980/3bfea08a-9bb7-416b-b157-cb4c6423ba8e" height=40px />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juliakleber&show_icons=true&locale=en" /></p>
