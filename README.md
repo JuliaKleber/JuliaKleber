@@ -31,9 +31,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=40px />
-  ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe)
-  ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/2fff13d0-fe41-4a11-b0f4-c50bfc1dd850)
 </p>
+  ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/2fff13d0-fe41-4a11-b0f4-c50bfc1dd850)
+  ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe)
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=goldiecrystal&show_icons=true&locale=en" /></p>
