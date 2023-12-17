@@ -36,7 +36,7 @@
 
   ![image](https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe)
 
-  <img src="https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe" alt="image" width="400" height="300">
+  <img src="https://github.com/JuliaKleber/JuliaKleber/assets/142741980/ba02b3e3-e858-4206-bbf0-5f18cd3f9cbe" height=40px >
 
 
 </p>
