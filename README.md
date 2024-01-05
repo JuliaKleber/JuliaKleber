@@ -2,7 +2,7 @@
 - 🧪️  I have a diploma / master's degree in chemistry.
 - 👩‍🔬️  I have worked in clinical research for more than 10 years.
 - 👩‍💻️  I recently found my passion in coding.
-- 🌱  I am currently learning Javascript / React.
+- 🌱  I am currently learning Javascript, TypeScript and React Native.
 - 🔭  I am currently buidling a recipe storage app with React.
 - 👯  I would like to collaborate on a nerdy music database app. Let's connect!
 - 👀  I am interested in climbing, cycling, playing the drums, cooking and board games.
