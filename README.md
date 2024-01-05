@@ -29,7 +29,7 @@
 <h3>Want to learn next:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/nest-plain.svg" height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40px />
 </p>
 
