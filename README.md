@@ -1,6 +1,4 @@
 👋 Hi, I am Julia
-- 🧪️  I have a diploma / master's degree in chemistry.
-- 👩‍🔬️  I have worked in clinical research for more than 10 years.
 - 👩‍💻️  I recently found my passion in coding.
 - 🌱  I am currently learning TypeScript and React Native.
 - 🔭  I am currently buidling a recipe storage app with React Native.
