@@ -37,4 +37,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juliakleber&show_icons=true&locale=en" /></p>
 
-https://www.codewars.com/users/Drempels/badges/micro
+
+<img src="https://www.codewars.com/users/Drempels/badges/micro" height=40px />
