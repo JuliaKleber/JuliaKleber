@@ -35,7 +35,7 @@
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JuliaKleber&theme=dracula&hide_border=true)
+<img src="https://activity-graph.herokuapp.com/graph?username=JuliaKleber&theme=dracula&hide_border=true" height=40px />
 
 <h3>GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=juliakleber&show_icons=true&locale=en" /></p>
