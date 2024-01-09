@@ -41,4 +41,4 @@
 <br>
 
 <h3>CodeWars Stats:</h3>
-<img src="https://www.codewars.com/users/Drempels/badges/large" height=80px />
+<img src="https://www.codewars.com/users/Drempels/badges/large" height=40px />
