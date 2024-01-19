@@ -2,7 +2,7 @@
 - 👩‍💻️  I recently found my passion in coding.
 - 🌱  I am currently learning TypeScript, Tailwind and React Native.
 - 🔭  I am currently building a portfolio page and an app to access meta data of musicians, bands, albums and songs with React and Tailwind.
-- 👀  apart from coding, I am interested in climbing, cycling, playing the drums, playing the piano, cooking and board games.
+- 👀  apart from coding, I am interested in climbing, cycling, cooking and board games.
 <br>
 
 <h3>Languages and Tools:</h3>
