@@ -6,6 +6,7 @@
 <br>
 
 Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
+
 <br>
 
 <h3>Languages and Tools:</h3>
