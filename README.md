@@ -1,7 +1,7 @@
 👋 Hi, I am Julia
 - 👩‍💻️  I recently found my passion in coding.
-- 🌱  I am currently learning TypeScript, Tailwind and React Native.
-- 🔭  I am currently building a portfolio page and an app to access meta data of musicians, bands, albums and songs with React and Tailwind.
+- 🌱  I am currently indulging in TypeScript, Tailwind and React (Native).
+- 🔭  currently I am building an app to access meta data of musicians, bands, albums and songs with React and Tailwind.
 - 👀  apart from coding, I am interested in climbing, cycling, cooking and board games.
 <br>
 
