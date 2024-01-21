@@ -5,6 +5,8 @@
 - 👀  apart from coding, I am interested in climbing, cycling, cooking and board games.
 <br>
 
+Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/)
+
 <h3>Languages and Tools:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=40px />
