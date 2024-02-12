@@ -1,5 +1,5 @@
 👋 Hi, I am Julia
-- 👩‍💻️  I recently found my passion in coding.
+👩‍💻️  I recently found my passion in coding.
 <br>
 
 Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
