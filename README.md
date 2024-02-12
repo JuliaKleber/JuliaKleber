@@ -1,7 +1,5 @@
 👋 Hi, I am Julia
 - 👩‍💻️  I recently found my passion in coding.
-- 🌱  currently I am building an app to access meta data of musicians, bands, albums and songs with React and Tailwind.
-- 👀  apart from coding, I am interested in climbing, cycling, cooking and board games.
 <br>
 
 Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
@@ -14,7 +12,7 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=40px height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height=40px />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40px />
@@ -30,10 +28,10 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 </p>
 <br>
 
-<h3>Want to learn next:</h3>
+<h3>I am currently learning:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height=40px />
 </p>
 
 <br>
