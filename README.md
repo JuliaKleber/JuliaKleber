@@ -1,4 +1,4 @@
-👋 Hi, I am Julia
+👋 Hi, I am Julia.
 <br>
 👩‍💻️  I recently found my passion in coding.
 <br>
