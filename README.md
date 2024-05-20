@@ -34,4 +34,4 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight" alt="juliakleber" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakleber&theme=tokyonight" alt="julias most used languages" /></p>
