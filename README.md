@@ -30,6 +30,8 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakleber)](https://github.com/juliakleber/github-readme-stats)
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliakleber&" alt="juliakleber" /></p> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight) -->
