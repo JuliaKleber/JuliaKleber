@@ -30,7 +30,7 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliakleber&" alt="juliakleber" /></p>
+<--! <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliakleber&" alt="juliakleber" /></p> -->
 -
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight)
