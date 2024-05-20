@@ -1,4 +1,7 @@
 👋 Hi, I am Julia.
+
+<--
+
 <br>
 👩‍💻️  I recently found my passion in coding.
 <br>
@@ -28,7 +31,7 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=40px />
 </p>
 
-<br>
+<br> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakleber)](https://github.com/juliakleber/github-readme-stats) -->
 
