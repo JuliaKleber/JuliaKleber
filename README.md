@@ -38,5 +38,5 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliakleber&theme=tokyonight" alt="julias most used languages" /></p> -->
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=juliakleber&theme=tokyonight)
+[![Julia's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=juliakleber&theme=tokyonight)](https://github.com/juliakleber/github-readme-stats)
 
