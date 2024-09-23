@@ -43,3 +43,4 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliakleber&theme=monokai)](https://github.com/juliakleber/github-readme-stats) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliakleber&layout=compact)
