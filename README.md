@@ -31,11 +31,11 @@ Check out my [portfolio page](https://juliakleber.github.io/PortfolioPage/) !
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=40px />
 </p>
 
-<br> -->
+<br> 
 
-<!-- [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakleber)](https://github.com/juliakleber/github-readme-stats) 
+ [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliakleber)](https://github.com/juliakleber/github-readme-stats) 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliakleber&" alt="juliakleber" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliakleber&" alt="juliakleber" /></p> -->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaKleber&theme=tokyonight)
 
